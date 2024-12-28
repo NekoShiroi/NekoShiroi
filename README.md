@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/Bash-b6d7a8?style=for-the-badge&logo=bash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/PHP-b4a7d6?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 </div>
 
 ---
