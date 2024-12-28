@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/R-8A2BE2?style=for-the-badge&logo=R&logoColor=blue" alt="R">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Bash-F05032?style=for-the-badge&logo=Bash&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Bash-b6d7a8?style=for-the-badge&logo=Bash&logoColor=white" alt="Bash">
 </div>
 
 ---
