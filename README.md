@@ -14,7 +14,7 @@
 
 ## CONTACT:
 <div align="center">
-  <a href="mailto:vutechnician@gmail.com">
+  <a href="mailto:vutechnician@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/vu-nguyen2901/" target="_blank">
