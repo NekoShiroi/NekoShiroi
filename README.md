@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 </div>
 
------------------------------------------------------------------------------------------------------------------------------
-
 ## Technologies
 
 - **Programming Languages**: JavaScript, Python, CSS, HTML, PHP, JSON, Bash, SQL, R
