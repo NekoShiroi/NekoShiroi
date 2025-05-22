@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/PHP-b4a7d6?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 </div>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4777092" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/vutechnician.png" alt="Your Image Badge" />
 ---
 
 ## Technologies
