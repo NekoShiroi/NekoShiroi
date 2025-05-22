@@ -10,6 +10,7 @@
   <a href="#" title="">
     <img align="center" width="285" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoShiroi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
+  <a> <img src="https://tryhackme-badges.s3.amazonaws.com/vutechnician.png" alt="Your Image Badge" /> </a>
 </div>
 
 ## CONTACT:
@@ -34,7 +35,6 @@
   <img src="https://img.shields.io/badge/PHP-b4a7d6?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/vutechnician.png" alt="Your Image Badge" />
 ---
 
 ## Technologies
